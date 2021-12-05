@@ -2,6 +2,7 @@
 Shows some special things to your Discord User Info
 
 Preview: https://i.imgur.com/2etl31P.png
+```![Discord Rich Presence](https://user-images.githubusercontent.com/49867381/144730996-818724ad-f36b-4a06-973c-938d11d5202d.png)
 
 ## Config
 ```lua
@@ -30,4 +31,3 @@ Citizen.CreateThread(function()
 		
 	end
 end)
-```
