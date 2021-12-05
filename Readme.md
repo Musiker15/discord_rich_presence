@@ -1,7 +1,7 @@
 # Discord Rich Presence
 Shows some special things to your Discord User Info
 
-https://i.imgur.com/2etl31P.png
+Preview: https://i.imgur.com/2etl31P.png
 
 ## Config
 ```lua
